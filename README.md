@@ -3,3 +3,4 @@ Put anything here so everyone can see each other's coding style. Also, please wr
 
 Names and Language:
 Evan Gideon | C++
+Kieran MacDonald | Python or C++
